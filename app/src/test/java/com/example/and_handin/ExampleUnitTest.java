@@ -1,4 +1,4 @@
-package com.example.e_02;
+package com.example.and_handin;
 
 import org.junit.Test;
 
