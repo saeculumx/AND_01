@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">AND_Handin</string>
-    <string name="temp">Temperature</string>
-    <string name="fell">Felling Temperature</string>
-    <string name="hum">humidity</string>
-</resources>

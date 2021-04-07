@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AND_Handin</string>
+    <string name="temp">Temperature</string>
+    <string name="fell">Felling Temperature</string>
+    <string name="hum">humidity</string>
+    <string name="title_shop">Home</string>
+    <string name="title_gifts">A</string>
+    <string name="title_cart">B</string>
+    <string name="title_profile">Profile</string>
+</resources>
